@@ -4,7 +4,7 @@
   <li>저는 성장하는 개발자 조성훈입니다.</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/jeongjjy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact&theme=dark)](https://github.com/jeongjjy/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannabie&langs_count=10&layout=compact&theme=dark)](https://github.com/sannabie/github-readme-stats)
 
 <ul>
