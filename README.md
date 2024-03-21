@@ -5,8 +5,7 @@
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/jeongjjy/github-readme-stats)
-![github stats](https://github-readme-stats.vercel.app/api?username=sannabie&show_icons=true)
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sannabie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sannabie/sannabie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannabie&langs_count=10&layout=compact&theme=dark)](https://github.com/sannabie/sannabie)
 
 <ul>
   <li>사용언어 및 도구</li>
