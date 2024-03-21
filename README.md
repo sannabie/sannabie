@@ -22,12 +22,12 @@
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=black" />
 </div>
+</br>
+LMS Project (최종) </br>
+-https://github.com/hyeona-kim/0122p.git - Spring Boot</br>
+-https://github.com/hyeona-kim/Main.git - NextJS
 
-lms Project (최종) </br>
--https://github.com/hyeona-kim/0122p.git </br>
--https://github.com/hyeona-kim/Main.git
-
-lms Project (1차) </br>
+LMS Project (1차) </br>
 -https://github.com/hyeona-kim/1221p
 
 <!--
